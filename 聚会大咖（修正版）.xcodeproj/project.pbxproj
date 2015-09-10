@@ -102,6 +102,7 @@
 		099D531A1BA173B600A77E97 /* WordLandmine.plist in Resources */ = {isa = PBXBuildFile; fileRef = 099D53151BA173B600A77E97 /* WordLandmine.plist */; };
 		099D531B1BA173B600A77E97 /* Property List.plist in Resources */ = {isa = PBXBuildFile; fileRef = 099D53161BA173B600A77E97 /* Property List.plist */; };
 		099D531C1BA173B600A77E97 /* yao.wav in Resources */ = {isa = PBXBuildFile; fileRef = 099D53171BA173B600A77E97 /* yao.wav */; };
+		099D53241BA17F3C00A77E97 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 099D53231BA17F3C00A77E97 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -116,7 +117,6 @@
 
 /* Begin PBXFileReference section */
 		099D51F01BA1736100A77E97 /* 聚会大咖（修正版）.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "聚会大咖（修正版）.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		099D51F41BA1736100A77E97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		099D51F51BA1736100A77E97 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		099D52001BA1736100A77E97 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		099D52031BA1736100A77E97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -266,6 +266,7 @@
 		099D53151BA173B600A77E97 /* WordLandmine.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = WordLandmine.plist; sourceTree = "<group>"; };
 		099D53161BA173B600A77E97 /* Property List.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Property List.plist"; sourceTree = "<group>"; };
 		099D53171BA173B600A77E97 /* yao.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = yao.wav; sourceTree = "<group>"; };
+		099D53231BA17F3C00A77E97 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -326,8 +327,8 @@
 				099D53141BA173B600A77E97 /* whoIsUndercover.plist */,
 				099D53151BA173B600A77E97 /* WordLandmine.plist */,
 				099D53161BA173B600A77E97 /* Property List.plist */,
+				099D53231BA17F3C00A77E97 /* Info.plist */,
 				099D53171BA173B600A77E97 /* yao.wav */,
-				099D51F41BA1736100A77E97 /* Info.plist */,
 				099D51F51BA1736100A77E97 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -779,6 +780,7 @@
 				099D52C71BA1739A00A77E97 /* smiley_004.png in Resources */,
 				099D52C91BA1739A00A77E97 /* smiley_006.png in Resources */,
 				099D52E51BA1739A00A77E97 /* 转盘图片4.png in Resources */,
+				099D53241BA17F3C00A77E97 /* Info.plist in Resources */,
 				099D52CB1BA1739A00A77E97 /* smiley_008.png in Resources */,
 				099D52C41BA1739A00A77E97 /* smiley_001.png in Resources */,
 				099D52D91BA1739A00A77E97 /* bomb.png in Resources */,
@@ -1070,6 +1072,7 @@
 				099D52151BA1736100A77E97 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		099D52161BA1736100A77E97 /* Build configuration list for PBXNativeTarget "聚会大咖（修正版）Tests" */ = {
 			isa = XCConfigurationList;
@@ -1078,6 +1081,7 @@
 				099D52181BA1736100A77E97 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
