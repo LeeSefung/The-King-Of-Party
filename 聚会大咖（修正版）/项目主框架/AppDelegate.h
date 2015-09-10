@@ -1,9 +1,9 @@
 //
 //  AppDelegate.h
-//  聚会大咖（修正版）
+//  聚会大咖
 //
-//  Created by cnxpx on 15/9/10.
-//  Copyright (c) 2015年 LeeSefung. All rights reserved.
+//  Created by jiaxin on 15/6/26.
+//  Copyright (c) 2015年 jiaxin. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

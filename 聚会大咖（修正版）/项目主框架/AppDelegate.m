@@ -1,12 +1,13 @@
 //
 //  AppDelegate.m
-//  聚会大咖（修正版）
+//  聚会大咖
 //
-//  Created by cnxpx on 15/9/10.
-//  Copyright (c) 2015年 LeeSefung. All rights reserved.
+//  Created by jiaxin on 15/6/26.
+//  Copyright (c) 2015年 jiaxin. All rights reserved.
 //
 
 #import "AppDelegate.h"
+#import "RootViewController.h"
 
 @interface AppDelegate ()
 
@@ -16,9 +17,19 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    [self.window makeKeyAndVisible];
     return YES;
 }
+
+- (UIWindow *)window {
+    if (!_window) {
+        _window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
+        UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:[[RootViewController alloc] init]];
+        _window.rootViewController = nav;
+    }
+    return _window;
+}
+
 
 - (void)applicationWillResignActive:(UIApplication *)application {
     // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.

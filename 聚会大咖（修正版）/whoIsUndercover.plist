@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>皮蛋豆腐</string>
+		<string>日本豆腐</string>
+	</array>
+	<array>
+		<string> 丑小鸭</string>
+		<string>白天鹅</string>
+	</array>
+	<array>
+		<string> 丑小鸭</string>
+		<string>灰姑娘</string>
+	</array>
+	<array>
+		<string> 丑小鸭</string>
+		<string>公主</string>
+	</array>
+	<array>
+		<string> 白天鹅</string>
+		<string>灰姑娘</string>
+	</array>
+	<array>
+		<string> 白天鹅</string>
+		<string>公主</string>
+	</array>
+	<array>
+		<string> 灰姑娘</string>
+		<string>公主</string>
+	</array>
+	<array>
+		<string> 姹紫嫣红</string>
+		<string>万紫千红</string>
+	</array>
+	<array>
+		<string> 姹紫嫣红</string>
+		<string>百花齐放</string>
+	</array>
+	<array>
+		<string> 姹紫嫣红</string>
+		<string>花团锦簇</string>
+	</array>
+	<array>
+		<string> 万紫千红</string>
+		<string>百花齐放</string>
+	</array>
+	<array>
+		<string> 万紫千红</string>
+		<string>花团锦簇</string>
+	</array>
+	<array>
+		<string> 百花齐放</string>
+		<string>花团锦簇</string>
+	</array>
+	<array>
+		<string> 辩白</string>
+		<string>辩论</string>
+	</array>
+	<array>
+		<string> 辩白</string>
+		<string>辩解</string>
+	</array>
+	<array>
+		<string> 辩白</string>
+		<string>辩驳</string>
+	</array>
+	<array>
+		<string> 辩论</string>
+		<string>辩解</string>
+	</array>
+	<array>
+		<string> 辩论</string>
+		<string>辩驳</string>
+	</array>
+	<array>
+		<string> 辩解</string>
+		<string>辩驳</string>
+	</array>
+	<array>
+		<string> 葡萄酒</string>
+		<string>鸡尾酒</string>
+	</array>
+	<array>
+		<string> 葡萄酒</string>
+		<string>白酒</string>
+	</array>
+	<array>
+		<string> 葡萄酒</string>
+		<string>啤酒</string>
+	</array>
+	<array>
+		<string> 鸡尾酒</string>
+		<string>白酒</string>
+	</array>
+	<array>
+		<string> 鸡尾酒</string>
+		<string>啤酒</string>
+	</array>
+	<array>
+		<string> 白酒</string>
+		<string>啤酒</string>
+	</array>
+	<array>
+		<string> 薯条</string>
+		<string>汉堡</string>
+	</array>
+	<array>
+		<string> 薯条</string>
+		<string>可乐</string>
+	</array>
+	<array>
+		<string> 薯条</string>
+		<string>菠萝派</string>
+	</array>
+	<array>
+		<string> 汉堡</string>
+		<string>可乐</string>
+	</array>
+	<array>
+		<string> 汉堡</string>
+		<string>菠萝派</string>
+	</array>
+	<array>
+		<string> 可乐</string>
+		<string>菠萝派</string>
+	</array>
+	<array>
+		<string> 麦当劳</string>
+		<string>肯德基</string>
+	</array>
+	<array>
+		<string> 麦当劳</string>
+		<string>必胜客</string>
+	</array>
+	<array>
+		<string> 麦当劳</string>
+		<string>吉野家</string>
+	</array>
+	<array>
+		<string> 肯德基</string>
+		<string>必胜客</string>
+	</array>
+	<array>
+		<string> 肯德基</string>
+		<string>吉野家</string>
+	</array>
+	<array>
+		<string> 必胜客</string>
+		<string>吉野家</string>
+	</array>
+	<array>
+		<string> 中考</string>
+		<string>会考</string>
+	</array>
+	<array>
+		<string> 中考</string>
+		<string>高考</string>
+	</array>
+	<array>
+		<string> 中考</string>
+		<string>联考</string>
+	</array>
+	<array>
+		<string> 会考</string>
+		<string>高考</string>
+	</array>
+	<array>
+		<string> 会考</string>
+		<string>联考</string>
+	</array>
+	<array>
+		<string> 高考</string>
+		<string>联考</string>
+	</array>
+	<array>
+		<string> 劳心</string>
+		<string>费心</string>
+	</array>
+	<array>
+		<string> 劳心</string>
+		<string>省心</string>
+	</array>
+	<array>
+		<string> 劳心</string>
+		<string>放心</string>
+	</array>
+	<array>
+		<string> 费心</string>
+		<string>省心</string>
+	</array>
+	<array>
+		<string> 费心</string>
+		<string>放心</string>
+	</array>
+	<array>
+		<string> 省心</string>
+		<string>放心</string>
+	</array>
+	<array>
+		<string> 卧底</string>
+		<string>内奸</string>
+	</array>
+	<array>
+		<string> 卧底</string>
+		<string>眼线</string>
+	</array>
+	<array>
+		<string> 卧底</string>
+		<string>特务</string>
+	</array>
+	<array>
+		<string> 内奸</string>
+		<string>眼线</string>
+	</array>
+	<array>
+		<string> 内奸</string>
+		<string>特务</string>
+	</array>
+	<array>
+		<string> 眼线</string>
+		<string>特务</string>
+	</array>
+	<array>
+		<string> 律师</string>
+		<string>法师</string>
+	</array>
+	<array>
+		<string> 律师</string>
+		<string>医师</string>
+	</array>
+	<array>
+		<string> 法师</string>
+		<string>医师</string>
+	</array>
+	<array>
+		<string> 白富美</string>
+		<string>黑木耳</string>
+	</array>
+	<array>
+		<string> 白富美</string>
+		<string>高富帅</string>
+	</array>
+	<array>
+		<string> 白富美</string>
+		<string>矮穷挫</string>
+	</array>
+	<array>
+		<string> 黑木耳</string>
+		<string>高富帅</string>
+	</array>
+	<array>
+		<string> 黑木耳</string>
+		<string>矮穷挫</string>
+	</array>
+	<array>
+		<string> 高富帅</string>
+		<string>矮穷挫</string>
+	</array>
+	<array>
+		<string> 画报</string>
+		<string>喜报</string>
+	</array>
+	<array>
+		<string> 画报</string>
+		<string>海报</string>
+	</array>
+	<array>
+		<string> 画报</string>
+		<string>黑板报</string>
+	</array>
+	<array>
+		<string> 喜报</string>
+		<string>海报</string>
+	</array>
+	<array>
+		<string> 喜报</string>
+		<string>黑板报</string>
+	</array>
+	<array>
+		<string> 海报</string>
+		<string>黑板报</string>
+	</array>
+	<array>
+		<string> 褒奖</string>
+		<string>褒扬</string>
+	</array>
+	<array>
+		<string> 褒奖</string>
+		<string>表扬</string>
+	</array>
+	<array>
+		<string> 褒奖</string>
+		<string>奖励</string>
+	</array>
+	<array>
+		<string> 褒扬</string>
+		<string>表扬</string>
+	</array>
+	<array>
+		<string> 褒扬</string>
+		<string>奖励</string>
+	</array>
+	<array>
+		<string> 表扬</string>
+		<string>奖励</string>
+	</array>
+	<array>
+		<string> 绑匪</string>
+		<string>绑架</string>
+	</array>
+	<array>
+		<string> 绑匪</string>
+		<string>绑票</string>
+	</array>
+	<array>
+		<string> 绑匪</string>
+		<string>人质</string>
+	</array>
+	<array>
+		<string> 绑架</string>
+		<string>绑票</string>
+	</array>
+	<array>
+		<string> 绑架</string>
+		<string>人质</string>
+	</array>
+	<array>
+		<string> 绑票</string>
+		<string>人质</string>
+	</array>
+	<array>
+		<string> 帮手</string>
+		<string>帮凶</string>
+	</array>
+	<array>
+		<string> 帮手</string>
+		<string>帮工</string>
+	</array>
+	<array>
+		<string> 帮手</string>
+		<string>帮会</string>
+	</array>
+	<array>
+		<string> 帮凶</string>
+		<string>帮工</string>
+	</array>
+	<array>
+		<string> 帮凶</string>
+		<string>帮会</string>
+	</array>
+	<array>
+		<string> 帮工</string>
+		<string>帮会</string>
+	</array>
+	<array>
+		<string> 暴露</string>
+		<string>揭露</string>
+	</array>
+	<array>
+		<string> 暴露</string>
+		<string>膨胀扩大</string>
+	</array>
+	<array>
+		<string> 揭露</string>
+		<string>膨胀扩大</string>
+	</array>
+	<array>
+		<string> 牛奶</string>
+		<string>奶牛</string>
+	</array>
+	<array>
+		<string> 牛奶</string>
+		<string>奶糖</string>
+	</array>
+	<array>
+		<string> 牛奶</string>
+		<string>奶茶</string>
+	</array>
+	<array>
+		<string> 奶牛</string>
+		<string>奶糖</string>
+	</array>
+	<array>
+		<string> 奶牛</string>
+		<string>奶茶</string>
+	</array>
+	<array>
+		<string> 奶糖</string>
+		<string>奶茶</string>
+	</array>
+	<array>
+		<string> 依恋</string>
+		<string>留恋不舍</string>
+	</array>
+	<array>
+		<string> 依恋</string>
+		<string>眷恋</string>
+	</array>
+	<array>
+		<string> 留恋不舍</string>
+		<string>眷恋</string>
+	</array>
+	<array>
+		<string> 爽歪歪</string>
+		<string>旺仔</string>
+	</array>
+	<array>
+		<string> 爽歪歪</string>
+		<string>伊利</string>
+	</array>
+	<array>
+		<string> 爽歪歪</string>
+		<string>蒙牛</string>
+	</array>
+	<array>
+		<string> 旺仔</string>
+		<string>伊利</string>
+	</array>
+	<array>
+		<string> 旺仔</string>
+		<string>蒙牛</string>
+	</array>
+	<array>
+		<string> 伊利</string>
+		<string>蒙牛</string>
+	</array>
+	<array>
+		<string> 相片</string>
+		<string>相机</string>
+	</array>
+	<array>
+		<string> 爷爷</string>
+		<string>奶奶</string>
+	</array>
+	<array>
+		<string> 爷爷</string>
+		<string>外公</string>
+	</array>
+	<array>
+		<string> 爷爷</string>
+		<string>外婆</string>
+	</array>
+	<array>
+		<string> 奶奶</string>
+		<string>外公</string>
+	</array>
+	<array>
+		<string> 奶奶</string>
+		<string>外婆</string>
+	</array>
+	<array>
+		<string> 外公</string>
+		<string>外婆</string>
+	</array>
+	<array>
+		<string> 教授</string>
+		<string>讲师</string>
+	</array>
+	<array>
+		<string> 教授</string>
+		<string>副教授</string>
+	</array>
+	<array>
+		<string> 教授</string>
+		<string>助教</string>
+	</array>
+	<array>
+		<string> 讲师</string>
+		<string>副教授</string>
+	</array>
+	<array>
+		<string> 讲师</string>
+		<string>助教</string>
+	</array>
+	<array>
+		<string> 副教授</string>
+		<string>助教</string>
+	</array>
+	<array>
+		<string> 萝莉控</string>
+		<string>御姐控</string>
+	</array>
+	<array>
+		<string> 萝莉控</string>
+		<string>正太控</string>
+	</array>
+	<array>
+		<string> 萝莉控</string>
+		<string>猛男控</string>
+	</array>
+	<array>
+		<string> 御姐控</string>
+		<string>正太控</string>
+	</array>
+	<array>
+		<string> 御姐控</string>
+		<string>猛男控</string>
+	</array>
+	<array>
+		<string> 正太控</string>
+		<string>猛男控</string>
+	</array>
+	<array>
+		<string> 穿越火线</string>
+		<string>反恐精英</string>
+	</array>
+	<array>
+		<string> 穿越火线</string>
+		<string>战地之王</string>
+	</array>
+	<array>
+		<string> 反恐精英</string>
+		<string>战地之王</string>
+	</array>
+	<array>
+		<string> 淘宝网</string>
+		<string>当当网</string>
+	</array>
+	<array>
+		<string> 淘宝网</string>
+		<string>糯米网</string>
+	</array>
+	<array>
+		<string> 淘宝网</string>
+		<string>赶集网</string>
+	</array>
+	<array>
+		<string> 当当网</string>
+		<string>糯米网</string>
+	</array>
+	<array>
+		<string> 当当网</string>
+		<string>赶集网</string>
+	</array>
+	<array>
+		<string> 糯米网</string>
+		<string>赶集网</string>
+	</array>
+	<array>
+		<string> 百度</string>
+		<string>搜狗</string>
+	</array>
+	<array>
+		<string> 百度</string>
+		<string>谷歌</string>
+	</array>
+	<array>
+		<string> 百度</string>
+		<string>雅虎</string>
+	</array>
+	<array>
+		<string> 搜狗</string>
+		<string>谷歌</string>
+	</array>
+	<array>
+		<string> 搜狗</string>
+		<string>雅虎</string>
+	</array>
+	<array>
+		<string> 谷歌</string>
+		<string>雅虎</string>
+	</array>
+	<array>
+		<string> 顶点小说</string>
+		<string>起点小说</string>
+	</array>
+	<array>
+		<string> 顶点小说</string>
+		<string>百度文库</string>
+	</array>
+	<array>
+		<string> 顶点小说</string>
+		<string>笔下文学</string>
+	</array>
+	<array>
+		<string> 起点小说</string>
+		<string>百度文库</string>
+	</array>
+	<array>
+		<string> 起点小说</string>
+		<string>笔下文学</string>
+	</array>
+	<array>
+		<string> 百度文库</string>
+		<string>笔下文学</string>
+	</array>
+	<array>
+		<string> 茶艺</string>
+		<string>棋艺</string>
+	</array>
+	<array>
+		<string> 茶艺</string>
+		<string>手艺</string>
+	</array>
+	<array>
+		<string> 茶艺</string>
+		<string>厨艺</string>
+	</array>
+	<array>
+		<string> 棋艺</string>
+		<string>手艺</string>
+	</array>
+	<array>
+		<string> 棋艺</string>
+		<string>厨艺</string>
+	</array>
+	<array>
+		<string> 手艺</string>
+		<string>厨艺</string>
+	</array>
+	<array>
+		<string> 爆竹</string>
+		<string>烟花</string>
+	</array>
+	<array>
+		<string> 爆竹</string>
+		<string>鞭炮</string>
+	</array>
+	<array>
+		<string> 爆竹</string>
+		<string>礼炮</string>
+	</array>
+	<array>
+		<string> 烟花</string>
+		<string>鞭炮</string>
+	</array>
+	<array>
+		<string> 烟花</string>
+		<string>礼炮</string>
+	</array>
+	<array>
+		<string> 鞭炮</string>
+		<string>礼炮</string>
+	</array>
+	<array>
+		<string> 动物园</string>
+		<string>海洋公园</string>
+	</array>
+	<array>
+		<string> 菜园</string>
+		<string>花园</string>
+	</array>
+	<array>
+		<string> 发票</string>
+		<string>收据</string>
+	</array>
+	<array>
+		<string> 说明</string>
+		<string>解释</string>
+	</array>
+	<array>
+		<string> 解释</string>
+		<string>掩饰</string>
+	</array>
+	<array>
+		<string> 掩饰</string>
+		<string>隐瞒</string>
+	</array>
+	<array>
+		<string>人参果</string>
+		<string>王母蟠桃</string>
+	</array>
+	<array>
+		<string>口若悬河</string>
+		<string>画饼充饥</string>
+	</array>
+	<array>
+		<string>金字塔</string>
+		<string>狮身人面像</string>
+	</array>
+	<array>
+		<string>瀑布</string>
+		<string>冰川</string>
+	</array>
+	<array>
+		<string>飞行员</string>
+		<string>宇航员</string>
+	</array>
+	<array>
+		<string>王祖贤</string>
+		<string>林青霞</string>
+	</array>
+	<array>
+		<string>诸葛亮</string>
+		<string>周瑜</string>
+	</array>
+	<array>
+		<string>高富帅</string>
+		<string>白富美</string>
+	</array>
+	<array>
+		<string>蜘蛛侠</string>
+		<string>蝙蝠侠</string>
+	</array>
+	<array>
+		<string>K歌之王</string>
+		<string>麦霸</string>
+	</array>
+	<array>
+		<string>飞轮海</string>
+		<string>五月天</string>
+	</array>
+	<array>
+		<string>基友</string>
+		<string>好友</string>
+	</array>
+	<array>
+		<string>葵花宝典</string>
+		<string>辟邪剑谱</string>
+	</array>
+	<array>
+		<string>苍井空</string>
+		<string>松岛枫</string>
+	</array>
+	<array>
+		<string>与世无争</string>
+		<string>看破红尘</string>
+	</array>
+	<array>
+		<string>玫瑰</string>
+		<string>月季</string>
+	</array>
+	<array>
+		<string>若曦</string>
+		<string>晴川</string>
+	</array>
+	<array>
+		<string>孟非</string>
+		<string>乐嘉</string>
+	</array>
+	<array>
+		<string>保安</string>
+		<string>保镖</string>
+	</array>
+	<array>
+		<string>辣椒</string>
+		<string>芥末</string>
+	</array>
+	<array>
+		<string>赵敏</string>
+		<string>黄蓉</string>
+	</array>
+	<array>
+		<string>水盆</string>
+		<string>水桶</string>
+	</array>
+	<array>
+		<string>森马</string>
+		<string>以纯</string>
+	</array>
+	<array>
+		<string>气泡</string>
+		<string>水泡</string>
+	</array>
+	<array>
+		<string>杭州</string>
+		<string>苏州</string>
+	</array>
+	<array>
+		<string>首尔</string>
+		<string>东京</string>
+	</array>
+	<array>
+		<string>葡萄</string>
+		<string>提子</string>
+	</array>
+	<array>
+		<string>蝴蝶</string>
+		<string>蜜蜂</string>
+	</array>
+	<array>
+		<string>裸婚</string>
+		<string>闪婚</string>
+	</array>
+	<array>
+		<string>吉他</string>
+		<string>琵琶</string>
+	</array>
+	<array>
+		<string>剩女</string>
+		<string>御姐</string>
+	</array>
+	<array>
+		<string>作家</string>
+		<string>编剧</string>
+	</array>
+	<array>
+		<string>结婚</string>
+		<string>订婚</string>
+	</array>
+	<array>
+		<string>孟飞</string>
+		<string>乐嘉</string>
+	</array>
+	<array>
+		<string>面包</string>
+		<string>蛋糕</string>
+	</array>
+	<array>
+		<string>油条</string>
+		<string>麻花</string>
+	</array>
+	<array>
+		<string>枕头</string>
+		<string>抱枕</string>
+	</array>
+	<array>
+		<string>同学</string>
+		<string>同桌</string>
+	</array>
+	<array>
+		<string>老佛爷</string>
+		<string>老天爷</string>
+	</array>
+	<array>
+		<string>鸭舌帽</string>
+		<string>遮阳帽</string>
+	</array>
+	<array>
+		<string>情人节</string>
+		<string>光棍节</string>
+	</array>
+	<array>
+		<string>富二代</string>
+		<string>高富帅</string>
+	</array>
+	<array>
+		<string>麦克风</string>
+		<string>扩音器</string>
+	</array>
+	<array>
+		<string>图书馆</string>
+		<string>图书店</string>
+	</array>
+	<array>
+		<string>洗衣粉</string>
+		<string>皂角粉</string>
+	</array>
+	<array>
+		<string>泡泡糖</string>
+		<string>棒棒糖</string>
+	</array>
+	<array>
+		<string>土豆粉</string>
+		<string>酸辣粉</string>
+	</array>
+	<array>
+		<string>口香糖</string>
+		<string>木糖醇</string>
+	</array>
+	<array>
+		<string>小笼包</string>
+		<string>灌汤包</string>
+	</array>
+	<array>
+		<string>张韶涵</string>
+		<string>王心凌</string>
+	</array>
+	<array>
+		<string>甄嬛传</string>
+		<string>红楼梦</string>
+	</array>
+	<array>
+		<string>包青天</string>
+		<string>狄仁杰</string>
+	</array>
+	<array>
+		<string>果粒橙</string>
+		<string>鲜橙多</string>
+	</array>
+	<array>
+		<string>洗发露</string>
+		<string>护发素</string>
+	</array>
+	<array>
+		<string>班主任</string>
+		<string>辅导员</string>
+	</array>
+	<array>
+		<string>铁观音</string>
+		<string>碧螺春</string>
+	</array>
+	<array>
+		<string>十面埋伏</string>
+		<string>四面楚歌</string>
+	</array>
+	<array>
+		<string>谢娜张杰</string>
+		<string>邓超孙俪</string>
+	</array>
+	<array>
+		<string>贵妃醉酒</string>
+		<string>黛玉葬花</string>
+	</array>
+	<array>
+		<string>神雕侠侣</string>
+		<string>天龙八部</string>
+	</array>
+	<array>
+		<string>勇往直前</string>
+		<string>全力以赴</string>
+	</array>
+	<array>
+		<string>麻婆豆腐</string>
+		<string>皮蛋豆腐</string>
+	</array>
+</array>
+</plist>

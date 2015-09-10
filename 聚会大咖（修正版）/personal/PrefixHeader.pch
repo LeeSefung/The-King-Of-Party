@@ -1,0 +1,76 @@
+//
+//  PrefixHeader.pch
+//  聚会大咖
+//
+//  Created by jiaxin on 15/6/26.
+//  Copyright (c) 2015年 jiaxin. All rights reserved.
+//
+
+#ifndef _____PrefixHeader_pch
+#define _____PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+//=======================蒲家鑫=====================
+/**
+ *  导入自定义
+ */
+#import "FlexibleFrame.h"
+#import "UIView+Flexible.h"
+#import "UIViewController+InitializeMethods.h"
+#import "UIView+InitializeMethods.h"
+#import "DataManager.h"
+#import "ToolManager.h"
+#import "HelpView.h"
+#import "InnerWordAndAdventureView.h"
+#import "InnerWordAndAdventureViewController.h"
+
+/**
+ *  导入第三方
+ */
+#import "QBFlatButton.h"
+#import "ColorButton.h"
+
+
+/**
+ *  全局宏定义
+ */
+#define SIZE_RATIO [FlexibleFrame ratio]
+#define FRAME_OF_IPHONE5_PROCESSED [FlexibleFrame frameWithIPhone5Frame:CGRectMake(0, 0, 320, 568)]
+#define FRAME_OF_IPHONE5 CGRectMake(0, 0, 320, 568)
+#define COLOR_WITH_RGBA(R,G,B,A) [UIColor colorWithRed:R/255.0 green:G/255.0 blue:B/255.0 alpha:A]
+#define IMAGE_WITH_NAME(name) [UIImage imageWithContentsOfFile:[[NSBundle mainBundle] pathForAuxiliaryExecutable:name]]
+#define WeakSelf(name) __weak typeof(name) weakSelf = name
+#define COLOR_OF_BG COLOR_WITH_RGBA(26, 188, 156, 1)
+#define COLOR_OF_TINTBULE COLOR_WITH_RGBA(52, 152, 219, 1)
+#define COLOR_OF_TINTORANGE COLOR_WITH_RGBA(230, 126, 33, 1)
+#define COLOR_OF_TINTRED COLOR_WITH_RGBA(231, 76, 60, 1)
+#define COLOR_OF_TINTPURPLE COLOR_WITH_RGBA(155, 89, 182, 1)
+#define COLOR_OF_TINTYELLOW COLOR_WITH_RGBA(241, 202, 38, 1)
+#define COLOR_OF_TINTGREEN COLOR_WITH_RGBA(46, 204, 113, 1)
+#define COLOR_OF_TINTGRAY COLOR_WITH_RGBA(149, 165,165, 1)
+
+//=======================刘英群=====================
+
+
+
+//=======================李宇辉=====================
+#define RATIO [FlexibleFrame ratio]
+
+
+
+
+#endif
+
+
+
+
+
+
+
+
+
+
+
